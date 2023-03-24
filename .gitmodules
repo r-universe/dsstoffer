@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "astsa"]
+	path = astsa
+	url = https://github.com/cran/astsa
+	shallow = true
+	registered = true
